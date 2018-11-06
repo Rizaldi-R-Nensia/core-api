@@ -1,0 +1,69 @@
+/*
+ * File           : embrcing_me.txt
+ * Project Name   : shipshop_api
+ * Project Path   : d:\xampp\htdocs\shipshop_api
+ * ---------------
+ * Author         : Rizaldi R_Nensia
+ * Email          : rizaldi.95@gmail.com
+ * File Created   : Monday, 5th November 2018 8:27:37 am
+ * ---------------
+ * Modified By    : Rizaldi R_Nensia
+ * Last Modified  : Monday, 5th November 2018 8:27:45 am
+ * ---------------
+ */
+
+
+
+
+geulium sog meomuldeon binjari
+ajigdo nama issneun
+jiwojiji anhneun gieog ijgo sipeo
+nado gateun saenggageul haesseo
+modu joheun saraminde
+wae seoro miwohaeya haneunji
+nareul jikyeojun sojunghan saram
+eonjena naneun mideosseo
+hajiman geojisiran geol boasseo
+
+ijeneun naega
+kkumkkwo wassdeon sigan soge
+neoreul gadulyeogo hajin anheul geoya
+hajiman naega malhaejugo sipeossdeon
+geosdeureun jeonhaejugo sipeo
+
+ijen tteonagal siganiya naui sesangeuro
+dagaol naui miraega
+naegen himgyeoun sungan irado
+hajiman igyeonael geoya gieoghae
+
+ijeneun naega
+kkumkkwo wassdeon sigan soge
+neoreul gadulyeogo hajin anheulgeoya
+hajiman
+naega malhaejugo sipeossdeon
+geosdeuleun boyeojugo sipeo
+
+naega geu balabon sesang soge
+nahonja igyeo naeneun beobeul alaya hae
+geurigo naega boassdeon modeun geoseul
+da gaseum soge ganjighalge
+
+config\
+    module.php
+    ...
+    ...
+app\
+    ...
+    ...
+    Modules\
+        ModuleOne\
+            Controllers\
+            Models\
+            Views\
+            routes.php
+        ModuleTwo\
+            Controllers\
+            Models\
+            Views\
+            routes.php
+        ModulesServiceProvider.php
