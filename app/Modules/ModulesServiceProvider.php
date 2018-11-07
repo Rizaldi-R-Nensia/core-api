@@ -7,7 +7,6 @@
 * it will make sure that each of the modules are properly loaded
 * i.e. with their routes, views etc.
 *
-* @author Kamran Ahmed <kamranahmed.se@gmail.com>
 * @package App\Modules
 */
 class ModulesServiceProvider extends \Illuminate\Support\ServiceProvider
